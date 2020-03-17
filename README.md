@@ -20,6 +20,8 @@ rspec
 
 Calculate the internal rate of return and get the specs green!
 
+Send the solution as `git format-patch`
+
 ### Additional Information
 
 The irr is calculated with the following formula:
